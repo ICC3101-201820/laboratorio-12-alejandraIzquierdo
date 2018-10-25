@@ -1,0 +1,5 @@
+C:\Users\ING\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.Form1.resources
+C:\Users\ING\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.Properties.Resources.resources
+C:\Users\ING\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csproj.GenerateResource.Cache
+C:\Users\ING\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\ING\Desktop\mvc-delegates-propios-master\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\mvc-delegates-propios-master\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
